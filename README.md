@@ -1,7 +1,7 @@
 # CSE216-Java-DataAnalysis
 
 ## Detail
-Move data analysis with IMBD Dataset
+Movie data analysis using JFreeChart with IMBD Dataset 
 
 ## Used Language
 Java
